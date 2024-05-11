@@ -1,0 +1,15 @@
+{
+  "name": "ocl",
+  "version": "0.0.1",
+  "description": "Custom Cassette Tape label creator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Winer",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "express": "^4.19.2"
+  }
+}
